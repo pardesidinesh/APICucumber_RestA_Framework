@@ -1,0 +1,854 @@
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/posts
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "RestAssured",
+    "body": "Testing and validating REST services in Java",
+    "userid": "11"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:48 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 117
+Connection: keep-alive
+Set-Cookie: __cfduid=d5761e51b0c110dd24e8c7561973d88d41581458028; expires=Thu, 12-Mar-20 21:53:48 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/posts/101
+X-Content-Type-Options: nosniff
+Etag: W/"75-uAjHr/l1/VzJyA6RXN9Ly7e3btw"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ec59835dc37-LHR
+
+{
+    "title": "RestAssured",
+    "body": "Testing and validating REST services in Java",
+    "userid": "11",
+    "id": 101
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/posts
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Dance",
+    "body": "You've gotta dance like there's nobody watching",
+    "userid": "12"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:49 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 114
+Connection: keep-alive
+Set-Cookie: __cfduid=d36ef34e8a2cc0b340e304327df18c1051581458029; expires=Thu, 12-Mar-20 21:53:49 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/posts/101
+X-Content-Type-Options: nosniff
+Etag: W/"72-gFFjNLFp3MrwghfS3GU8Kjk5ZGo"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398eca8f82ce27-LHR
+
+{
+    "title": "Dance",
+    "body": "You've gotta dance like there's nobody watching",
+    "userid": "12",
+    "id": 101
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/posts
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Life",
+    "body": "In three words I can sum up everything I've learned about life: it goes on",
+    "userid": "99"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 140
+Connection: keep-alive
+Set-Cookie: __cfduid=d0de99e446f2602a7ecf42c114e4c3d591581458029; expires=Thu, 12-Mar-20 21:53:49 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/posts/101
+X-Content-Type-Options: nosniff
+Etag: W/"8c-LdZDfIVPq/EJAP5BYN0g2f7QOac"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ece7ecfe670-LHR
+
+{
+    "title": "Life",
+    "body": "In three words I can sum up everything I've learned about life: it goes on",
+    "userid": "99",
+    "id": 101
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/posts
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Miracle",
+    "body": "There are only two ways to live your life.",
+    "userid": "100"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 112
+Connection: keep-alive
+Set-Cookie: __cfduid=dceb8e6d2bc3e1d7d3f968737045380b71581458030; expires=Thu, 12-Mar-20 21:53:50 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/posts/101
+X-Content-Type-Options: nosniff
+Etag: W/"70-sluR/y/QDsSomnxLPy+9Ot+6bQc"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ed28b9bce57-LHR
+
+{
+    "title": "Miracle",
+    "body": "There are only two ways to live your life.",
+    "userid": "100",
+    "id": 101
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/comments
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "RestAssured",
+    "body": "Testing and validating REST services in Java",
+    "userid": "22"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:51 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 117
+Connection: keep-alive
+Set-Cookie: __cfduid=d33845f5562c3eadc05e695c0a70f649d1581458031; expires=Thu, 12-Mar-20 21:53:51 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/comments/501
+X-Content-Type-Options: nosniff
+Etag: W/"75-fGQLH7M3dqzJ5AAlMZXy9TtV3OI"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ed658b5bc3c-LHR
+
+{
+    "title": "RestAssured",
+    "body": "Testing and validating REST services in Java",
+    "userid": "22",
+    "id": 501
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/comments
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Dance",
+    "body": "You've gotta dance like there's nobody watching",
+    "userid": "23"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:52 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 114
+Connection: keep-alive
+Set-Cookie: __cfduid=dd0d525e4b8e026b9fada2cb0415a288c1581458031; expires=Thu, 12-Mar-20 21:53:51 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/comments/501
+X-Content-Type-Options: nosniff
+Etag: W/"72-6gvz4Ac6+MGIOod+i7OrOJ/Jjok"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ed9da3f3480-LHR
+
+{
+    "title": "Dance",
+    "body": "You've gotta dance like there's nobody watching",
+    "userid": "23",
+    "id": 501
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/comments
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Life",
+    "body": "In three words I can sum up everything I've learned about life: it goes on",
+    "userid": "24"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:52 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 140
+Connection: keep-alive
+Set-Cookie: __cfduid=d9c2b50d1112db0faa41cfd32f8ec49df1581458032; expires=Thu, 12-Mar-20 21:53:52 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/comments/501
+X-Content-Type-Options: nosniff
+Etag: W/"8c-oNgTqJ9u4WLnVnsqqmJHdlLC6Ks"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398edd4b89ce2b-LHR
+
+{
+    "title": "Life",
+    "body": "In three words I can sum up everything I've learned about life: it goes on",
+    "userid": "24",
+    "id": 501
+}
+Request method:	POST
+Request URI:	https://jsonplaceholder.typicode.com/comments
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "Miracle",
+    "body": "There are only two ways to live your life.",
+    "userid": "28"
+}
+HTTP/1.1 201 Created
+Date: Tue, 11 Feb 2020 21:53:53 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 111
+Connection: keep-alive
+Set-Cookie: __cfduid=dea3741e3347f08307f2b0b71aaee52a81581458032; expires=Thu, 12-Mar-20 21:53:52 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/comments/501
+X-Content-Type-Options: nosniff
+Etag: W/"6f-5A+Z7DJVlKB/lqH9BBK5ubKXEUA"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ee0abaf35c4-LHR
+
+{
+    "title": "Miracle",
+    "body": "There are only two ways to live your life.",
+    "userid": "28",
+    "id": 501
+}
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 11 Feb 2020 21:53:54 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=db7ab8e1fd4c4e5929616dd09bdefff171581458034; expires=Thu, 12-Mar-20 21:53:54 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=14400
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Etag: W/"160d-1eMSsxeJRfnVLRBmYJSbCiJZ1qQ"
+Content-Encoding: gzip
+Via: 1.1 vegur
+CF-Cache-Status: HIT
+Age: 4409
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398eeacd31dc1b-LHR
+
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "company": {
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "address": {
+            "street": "Victor Plains",
+            "suite": "Suite 879",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771",
+            "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+            }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "address": {
+            "street": "Douglas Extension",
+            "suite": "Suite 847",
+            "city": "McKenziehaven",
+            "zipcode": "59590-4157",
+            "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+            }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "address": {
+            "street": "Hoeger Mall",
+            "suite": "Apt. 692",
+            "city": "South Elvis",
+            "zipcode": "53919-4257",
+            "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+            }
+        },
+        "phone": "493-170-9623 x156",
+        "website": "kale.biz",
+        "company": {
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": {
+            "street": "Skiles Walks",
+            "suite": "Suite 351",
+            "city": "Roscoeview",
+            "zipcode": "33263",
+            "geo": {
+                "lat": "-31.8129",
+                "lng": "62.5342"
+            }
+        },
+        "phone": "(254)954-1289",
+        "website": "demarco.info",
+        "company": {
+            "name": "Keebler LLC",
+            "catchPhrase": "User-centric fault-tolerant solution",
+            "bs": "revolutionize end-to-end systems"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "username": "Leopoldo_Corkery",
+        "email": "Karley_Dach@jasper.info",
+        "address": {
+            "street": "Norberto Crossing",
+            "suite": "Apt. 950",
+            "city": "South Christy",
+            "zipcode": "23505-1337",
+            "geo": {
+                "lat": "-71.4197",
+                "lng": "71.7478"
+            }
+        },
+        "phone": "1-477-935-8478 x6430",
+        "website": "ola.org",
+        "company": {
+            "name": "Considine-Lockman",
+            "catchPhrase": "Synchronised bottom-line interface",
+            "bs": "e-enable innovative applications"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "username": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": {
+            "street": "Rex Trail",
+            "suite": "Suite 280",
+            "city": "Howemouth",
+            "zipcode": "58804-1099",
+            "geo": {
+                "lat": "24.8918",
+                "lng": "21.8984"
+            }
+        },
+        "phone": "210.067.6132",
+        "website": "elvis.io",
+        "company": {
+            "name": "Johns Group",
+            "catchPhrase": "Configurable multimedia task-force",
+            "bs": "generate enterprise e-tailers"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "username": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "address": {
+            "street": "Ellsworth Summit",
+            "suite": "Suite 729",
+            "city": "Aliyaview",
+            "zipcode": "45169",
+            "geo": {
+                "lat": "-14.3990",
+                "lng": "-120.7677"
+            }
+        },
+        "phone": "586.493.6943 x140",
+        "website": "jacynthe.com",
+        "company": {
+            "name": "Abernathy Group",
+            "catchPhrase": "Implemented secondary concept",
+            "bs": "e-enable extensible e-tailers"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "username": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "address": {
+            "street": "Dayna Park",
+            "suite": "Suite 449",
+            "city": "Bartholomebury",
+            "zipcode": "76495-3109",
+            "geo": {
+                "lat": "24.6463",
+                "lng": "-168.8889"
+            }
+        },
+        "phone": "(775)976-6794 x41206",
+        "website": "conrad.com",
+        "company": {
+            "name": "Yost and Sons",
+            "catchPhrase": "Switchable contextually-based project",
+            "bs": "aggregate real-time technologies"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "username": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "address": {
+            "street": "Kattie Turnpike",
+            "suite": "Suite 198",
+            "city": "Lebsackbury",
+            "zipcode": "31428-2261",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-3804",
+        "website": "ambrose.net",
+        "company": {
+            "name": "Hoeger LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
+    }
+]
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/users/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 11 Feb 2020 21:53:54 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d28f636ac09d1aa3dbc9571ef47ed815d1581458034; expires=Thu, 12-Mar-20 21:53:54 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=14400
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Etag: W/"1fd-XTG63SYhaP/Uo6/vgmARnL3rpBk"
+Via: 1.1 vegur
+CF-Cache-Status: HIT
+Age: 4667
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398eec3b0af3df-LHR
+Content-Encoding: gzip
+
+{
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+            "lat": "-43.9509",
+            "lng": "-34.4618"
+        }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+    }
+}
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/users/3
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 11 Feb 2020 21:53:54 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=dd02e313fae0a2b8f4a26586d67c920fc1581458034; expires=Thu, 12-Mar-20 21:53:54 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=14400
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Etag: W/"208-uuwhfwQMzFzbJr9Pg6DKXae0SXA"
+Via: 1.1 vegur
+CF-Cache-Status: HIT
+Age: 1081
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398eed3f41bbca-LHR
+Content-Encoding: gzip
+
+{
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+            "lat": "-68.6102",
+            "lng": "-47.0653"
+        }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+    }
+}
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/users/4
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 11 Feb 2020 21:53:55 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=df0ccdadaed2a2e04f90035a1da2980071581458034; expires=Thu, 12-Mar-20 21:53:54 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=14400
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Etag: W/"20d-8RgvpSlsXJuYWj1NkFA2Hm1U5TI"
+Via: 1.1 vegur
+CF-Cache-Status: HIT
+Age: 5009
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398eee9c67ce27-LHR
+Content-Encoding: gzip
+
+{
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+            "lat": "29.4572",
+            "lng": "-164.2990"
+        }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+    }
+}
+Request method:	GET
+Request URI:	https://jsonplaceholder.typicode.com/users/5
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 11 Feb 2020 21:53:55 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d68fb4443d2cf2593d1b926095a3bcdc71581458035; expires=Thu, 12-Mar-20 21:53:55 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=14400
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Etag: W/"1fb-gmS8Go1GsKpTWscwm+5AFpuro+k"
+Via: 1.1 vegur
+CF-Cache-Status: HIT
+Age: 6116
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 56398ef02ce6ce4f-LHR
+Content-Encoding: gzip
+
+{
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+            "lat": "-31.8129",
+            "lng": "62.5342"
+        }
+    },
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+    }
+}
